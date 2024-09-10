@@ -1,0 +1,9 @@
+package com.codsoft_test;
+import com.codsoft.*;
+
+public class GuessGame_Test {
+	public static void main(String[] args) {
+		GuessGame obj = new GuessGame();
+		obj.start();
+	}
+}
